@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://muneeb-portfolio-one.vercel.app/">
+  <a href="https://muneeb-portfolio-one.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
   <a href="https://github.com/m-u-n-e-e-b">
